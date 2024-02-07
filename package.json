@@ -1,0 +1,15 @@
+{
+  "name": "tsp-server-rcon",
+  "version": "1.0.0",
+  "description": "Connecting to a TSP server using RCON in Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "rcon": "1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AxpPlt",
+  "license": "ISC"
+}
